@@ -20,7 +20,7 @@ code {
 
   a {
     text-decoration: underline;
-    text-decoration-color: #444544;
+    text-decoration-color: #c6cbc6;
 
 
     &:hover {
@@ -79,7 +79,7 @@ code {
       max-width: (11 / 10 * 100%);
 
       p {
-        font-size: 32px;
+        font-size: $prose-font-size;
       }
 
     }
